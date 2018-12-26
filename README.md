@@ -1,6 +1,6 @@
-# csr
+# ecom
 
-> Culture sports and responsibilities
+> ecommerce
 
 ## Build Setup
 
